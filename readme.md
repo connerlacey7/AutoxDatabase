@@ -1,9 +1,10 @@
 ## Overview
 
 **Project Title**:
+autocross database
 
 **Project Description**:
-
+It is a database to record drivers and results from autocross events
 **Project Goals**:
 
 ## Instructions for Build and Use
